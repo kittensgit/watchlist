@@ -1,4 +1,5 @@
 import React, { useState } from 'react'
+import ResultCard from './ResultCard'
 
 const Add = () => {
 
@@ -34,8 +35,8 @@ const Add = () => {
                     {results.length > 0 && (
                         <ul className='results'>
                             {results.map(movie=>(
-                                <li>
-                                    {movie.title}
+                                <li key={movie.id}>
+                                    <ResultCard movie={movie}/>
                                 </li>
                             ))}
                         </ul>
