@@ -1,4 +1,5 @@
 import React from 'react'
+import { MovieControls } from './MovieControls';
 
 export const MovieCard = ({ movie, type }) => {
     return (
@@ -9,6 +10,8 @@ export const MovieCard = ({ movie, type }) => {
                 src={`https://image.tmdb.org/t/p/w200${movie.poster_path}`}
                 alt={`${movie.title} Poster`}
             />
+
+            <MovieControls movie={movie} type={type}/>
 
         </div>
     );
