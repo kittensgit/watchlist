@@ -30,8 +30,8 @@ const ResultCard = ({ movie }) => {
                 </div>
                 <div className='controls'>
                     <button className='btn'
-                    disabled={watchlistDisabled}
-                     onClick={() => addMovieToWatchlist(movie)}>
+                        disabled={watchlistDisabled}
+                        onClick={() => addMovieToWatchlist(movie)}>
                         Add to watchlist
                     </button>
                 </div>
