@@ -1,1 +1,1 @@
-[link on website](https://kittensgit.github.io/movie-watchlist/)
+[link on website](https://kittensgit.github.io/watchlist/)
