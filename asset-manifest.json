@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/movie-watchlist/static/css/main.3ce97283.css",
-    "main.js": "/movie-watchlist/static/js/main.edccd3b7.js",
-    "static/media/fa-solid-900.svg": "/movie-watchlist/static/media/fa-solid-900.3a909e9bcf105f28ebe7.svg",
-    "static/media/fa-brands-400.svg": "/movie-watchlist/static/media/fa-brands-400.5f363d3d71c36033aff0.svg",
-    "static/media/fa-solid-900.eot": "/movie-watchlist/static/media/fa-solid-900.7eefe04dc985dd4ad38b.eot",
-    "static/media/fa-solid-900.ttf": "/movie-watchlist/static/media/fa-solid-900.32267f3b4db33a7c85ee.ttf",
-    "static/media/fa-regular-400.svg": "/movie-watchlist/static/media/fa-regular-400.f4f60ace2cf62f2cba66.svg",
-    "static/media/fa-brands-400.eot": "/movie-watchlist/static/media/fa-brands-400.607a77859353c0cc1882.eot",
-    "static/media/fa-brands-400.ttf": "/movie-watchlist/static/media/fa-brands-400.5818bbd07dfd7095920a.ttf",
-    "static/media/fa-solid-900.woff": "/movie-watchlist/static/media/fa-solid-900.a940d584750708f5435c.woff",
-    "static/media/fa-brands-400.woff": "/movie-watchlist/static/media/fa-brands-400.ee26f57bc9e3619b022b.woff",
-    "static/media/fa-solid-900.woff2": "/movie-watchlist/static/media/fa-solid-900.9451d5fee89b51a20f8a.woff2",
-    "static/media/fa-brands-400.woff2": "/movie-watchlist/static/media/fa-brands-400.31015e861aeb30ff8355.woff2",
-    "static/media/fa-regular-400.eot": "/movie-watchlist/static/media/fa-regular-400.0747be4cba2f8600544f.eot",
-    "static/media/fa-regular-400.ttf": "/movie-watchlist/static/media/fa-regular-400.c3146b3524e97475c094.ttf",
-    "static/media/fa-regular-400.woff": "/movie-watchlist/static/media/fa-regular-400.8b892b7904a39e37c53d.woff",
-    "static/media/fa-regular-400.woff2": "/movie-watchlist/static/media/fa-regular-400.c52405129ae48097815d.woff2",
-    "index.html": "/movie-watchlist/index.html",
-    "main.3ce97283.css.map": "/movie-watchlist/static/css/main.3ce97283.css.map",
-    "main.edccd3b7.js.map": "/movie-watchlist/static/js/main.edccd3b7.js.map"
+    "main.css": "/watchlist/static/css/main.7478ab24.css",
+    "main.js": "/watchlist/static/js/main.2dfad36b.js",
+    "static/media/fa-solid-900.svg": "/watchlist/static/media/fa-solid-900.3a909e9bcf105f28ebe7.svg",
+    "static/media/fa-brands-400.svg": "/watchlist/static/media/fa-brands-400.5f363d3d71c36033aff0.svg",
+    "static/media/fa-solid-900.eot": "/watchlist/static/media/fa-solid-900.7eefe04dc985dd4ad38b.eot",
+    "static/media/fa-solid-900.ttf": "/watchlist/static/media/fa-solid-900.32267f3b4db33a7c85ee.ttf",
+    "static/media/fa-regular-400.svg": "/watchlist/static/media/fa-regular-400.f4f60ace2cf62f2cba66.svg",
+    "static/media/fa-brands-400.eot": "/watchlist/static/media/fa-brands-400.607a77859353c0cc1882.eot",
+    "static/media/fa-brands-400.ttf": "/watchlist/static/media/fa-brands-400.5818bbd07dfd7095920a.ttf",
+    "static/media/fa-solid-900.woff": "/watchlist/static/media/fa-solid-900.a940d584750708f5435c.woff",
+    "static/media/fa-brands-400.woff": "/watchlist/static/media/fa-brands-400.ee26f57bc9e3619b022b.woff",
+    "static/media/fa-solid-900.woff2": "/watchlist/static/media/fa-solid-900.9451d5fee89b51a20f8a.woff2",
+    "static/media/fa-brands-400.woff2": "/watchlist/static/media/fa-brands-400.31015e861aeb30ff8355.woff2",
+    "static/media/fa-regular-400.eot": "/watchlist/static/media/fa-regular-400.0747be4cba2f8600544f.eot",
+    "static/media/fa-regular-400.ttf": "/watchlist/static/media/fa-regular-400.c3146b3524e97475c094.ttf",
+    "static/media/fa-regular-400.woff": "/watchlist/static/media/fa-regular-400.8b892b7904a39e37c53d.woff",
+    "static/media/fa-regular-400.woff2": "/watchlist/static/media/fa-regular-400.c52405129ae48097815d.woff2",
+    "index.html": "/watchlist/index.html",
+    "main.7478ab24.css.map": "/watchlist/static/css/main.7478ab24.css.map",
+    "main.2dfad36b.js.map": "/watchlist/static/js/main.2dfad36b.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ce97283.css",
-    "static/js/main.edccd3b7.js"
+    "static/css/main.7478ab24.css",
+    "static/js/main.2dfad36b.js"
   ]
 }
